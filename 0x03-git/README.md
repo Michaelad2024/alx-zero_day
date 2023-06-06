@@ -1,2 +1,2 @@
 another-git
-and yet another git version control.
+and yet another git version control
